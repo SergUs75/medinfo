@@ -1,0 +1,21 @@
+{
+    "credentials": {
+        "user": "+380676276671",
+        "password": "Usyuk1975"
+    },
+    "employee": {
+        "id": 69436,
+        "name": "Усюк Сергій Володимирович"
+    },
+    "general": {
+        "app_name": "\u041f\u043e\u043c\u0456\u0447\u043d\u0438\u043a \u0421\u0456\u043c\u0435\u0439\u043d\u043e\u0433\u043e \u041b\u0456\u043a\u0430\u0440\u044f",
+        "version": "1.0.0"
+    },
+    "database": {
+        "db_name": "med_assist.db"
+    },
+    "api": {
+        "access_token": "eyJhbGciOiJIUzI1NiJ9.eyJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IjNiM2EwYTJjLTQ5NGYtNGVjYi1hMDBlLTAwZDNmZTVjM2E2NCIsIm5hbWVpZCI6MTAxNzM3LCJ1bmlxdWVfbmFtZSI6IiszODA2NzYyNzY2NzEiLCJsZWdhbF9lbnRpdHlfaWQiOjMwNzAsImVtcGxveWVlX2lkIjo2OTQzNiwiZW1wbG95ZWVfdHlwZSI6IkRPQ1RPUiIsInBhcnR5X2lkIjo2MTY4MSwic3ViIjoiMTAxNzM3Iiwic2NwIjoidXNlciIsImlhdCI6MTc2OTA2MzY4NywiZXhwIjoxNzY5NjM3NTk5LCJqdGkiOiI0MzVmMTM5NS02ZjhlLTQzYmItYTFjNi1hZjFkMmIwMDZiNWUifQ.hN-tTFXj5cuVmUbUAFsJOOSat0Lsfnr4s7pRG0EPxek",
+        "base_url": "https://ehr.h24.ua/"
+    }
+}
